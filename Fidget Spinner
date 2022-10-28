@@ -26,7 +26,7 @@ def spin():
     dot(130, 'red')
     back(100)
     right(120)
-   
+  #HI 
     update()
    
 def animate():
