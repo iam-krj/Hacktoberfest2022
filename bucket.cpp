@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+#bucket
 void display(vector<int> A, int n)
 {
     cout << endl;
